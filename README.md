@@ -17,10 +17,10 @@ https://marcelijanowski.github.io/responsive-table/
 
 ### What requirements should be
 1. Obligatory solution for IE6 - IE9 should be dropped (convince product owner ...) as for:
-  # Number of user dropping and there is not longer support
-  # For old browser we need to use polyfills and hacks which maybe break or cause unsuspected behavior in "proper" web browser
-  # Time needed for developers and tester to create functionality and support old web browsers.
-  # We can always use progressive enhancement to support old web browsers. Old web browser will display proper content but not going to be pixel and design perfect as in newest web browsers.
+  * Number of user dropping and there is not longer support
+  * For old browser we need to use polyfills and hacks which maybe break or cause unsuspected behavior in "proper" web browser
+  * Time needed for developers and tester to create functionality and support old web browsers.
+  * We can always use progressive enhancement to support old web browsers. Old web browser will display proper content but not going to be pixel and design perfect as in newest web browsers.
 2. Breakpoints for different devices should be defined as "mobile" is not very accurate word.
 3. Using responsive design on web browsers like IE6-IE9 doesn't really have seans as you have to run them on mobile devices and not current device use them
 4. There is no requirements about accesibilty?
