@@ -14,8 +14,8 @@ https://marcelijanowski.github.io/responsive-table/
 1. What is break point for mobile. In my solution I took 740px.
 2. What about AJAX call - inside test there is not mention to use create it or not. If I have to use it I would probably use pollyfill for fetch method with handlebars as templating enginee.
 3. Would be nice to have wireframe with all information about padding, margin as for example "Leading" I treated as **margin** from top and can be also **line-height**
-4. How pagination should work on mobile. Rotating or only one direction and at end of rows left navigation will disappear. Also there is bug in test wireframes as we should be showing pagination link for visible item.
-   I haven't done any debouncer for resize at this time but maybe for testing reason should be done later if testers will be playing with resolution change. But in real world people will be using page in one device with specific
+4. How pagination should work on mobile ?. Rotating or only one direction and at end of rows left navigation will disappear. Also there is bug in test wireframes as we shouldn\'t be showing pagination link for visible item.
+   I haven't done any debouncer for resize at this time but maybe for testing reason should be done later if testers will be playing with resolution changing. But in real world people will be using page in one device with specific
    resolution and few of them will be rescaling page
 
 ### What requirements should be
